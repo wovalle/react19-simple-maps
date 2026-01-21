@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.3.0
+
+### Minor Changes
+
+- a7aa88d: Fix export paths and esm only
+
 ## 1.2.1
 
 ### Patch Changes
