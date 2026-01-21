@@ -1,5 +1,5 @@
 {
-  "name": "@vnedyalk0v/react19-simple-maps",
+  "name": "@wovalle/react19-simple-maps",
   "version": "1.2.1",
   "description": "An svg map chart component built exclusively for React 19+ - Modern TypeScript-first library with cutting-edge React patterns",
   "type": "module",
@@ -55,7 +55,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vnedyalk0v/react19-simple-maps.git"
+    "url": "https://github.com/wovalle/react19-simple-maps.git"
   },
   "publishConfig": {
     "access": "public",
@@ -76,16 +76,17 @@
   ],
   "author": "Richard Zimerman <richard@zcreativelabs.com> (https://github.com/zimrick)",
   "contributors": [
-    "Georgi Nedyalkov <vnedyalk0v@proton.me> (https://github.com/vnedyalk0v)"
+    "Georgi Nedyalkov <vnedyalk0v@proton.me> (https://github.com/vnedyalk0v)",
+    "Walter Ovalle <wovalle@users.noreply.github.com> (https://github.com/wovalle)"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vnedyalk0v/react19-simple-maps/issues"
+    "url": "https://github.com/wovalle/react19-simple-maps/issues"
   },
-  "homepage": "https://github.com/vnedyalk0v/react19-simple-maps#readme",
+  "homepage": "https://github.com/wovalle/react19-simple-maps#readme",
   "funding": {
     "type": "github",
-    "url": "https://github.com/sponsors/vnedyalk0v"
+    "url": "https://github.com/sponsors/wovalle"
   },
   "devDependencies": {
     "@babel/core": "^7.28.3",
